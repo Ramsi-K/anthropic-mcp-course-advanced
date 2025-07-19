@@ -2,9 +2,8 @@
 
 This repository contains my completed projects from the Anthropic Model Context Protocol (MCP) Advanced Topics course. Each project demonstrates different aspects of building and working with MCP servers and clients.
 
-<a href="/certificate/certificate-tydy7yyw6pxw-1752659888.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
-
-<a href="/certificate/certificate-u3x9bqz63sva-1752638312.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+- [Certificate: Model Context Protocol Advanced Topics](certificate/certificate-tydy7yyw6pxw-1752659888.pdf)
+- [Certificate: Introduction to Model Context Protocol](certificate/certificate-u3x9bqz63sva-1752638312.pdf)
 
 > Also see my implementation of a [mcp chatbot cli](https://github.com/Ramsi-K/mcp-chatbot-cli)
 
